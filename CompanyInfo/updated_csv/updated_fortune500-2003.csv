@@ -1,0 +1,501 @@
+rank,company,revenue ($ millions),profit ($ millions),Sector
+1,Wal-Mart Stores,246525.0,8039.0,Consumer Defensive
+2,General Motors,186763.0,1736.0,Consumer Cyclical
+3,Exxon Mobil,182466.0,11460.0,Energy
+4,Ford Motor,163630.0,-980.0,Consumer Cyclical
+5,General Electric,131698.0,14118.0,Industrials
+6,Citigroup,100789.0,15276.0,Financial Services
+7,ChevronTexaco,92043.0,1132.0,Energy
+8,Intl. Business Machines,83132.0,3579.0,Technology
+9,American Intl. Group,67722.8,5518.9,Financial Services
+10,Verizon Communications,67625.0,4079.0,Communication Services
+11,Altria Group,62182.0,11102.0,Consumer Defensive
+12,ConocoPhillips,58394.0,-295.0,Energy
+13,Home Depot,58247.0,3664.0,Consumer Cyclical
+14,Hewlett-Packard,56588.0,-903.0,Technology
+15,Boeing,54069.0,492.0,Industrials
+16,Fannie Mae,52901.1,4618.8,Financial Services
+17,Merck,51790.3,7149.5,Healthcare
+18,Kroger,51759.5,1204.9,Consumer Defensive
+19,Cardinal Health,51135.7,1056.2,Healthcare
+20,McKesson,50006.0,418.6,Healthcare
+21,State Farm Insurance Cos,49653.7,-2795.5,Financial Services
+22,AT&T,46727.0,-13082.2,Communication Services
+23,Bank of America Corp.,45732.0,9249.0,Financial Services
+24,AmerisourceBergen,45234.8,344.9,Healthcare
+25,Target,43917.0,1654.0,Consumer Defensive
+26,J.P. Morgan Chase & Co.,43372.0,1663.0,Financial Services
+27,SBC Communications,43138.0,5653.0,Communication Services
+28,Berkshire Hathaway,42353.0,4286.0,Financial Services
+29,Time Warner,41780.0,-98696.0,Communication Services
+30,Sears Roebuck,41366.0,1376.0,Consumer Cyclical
+31,Procter & Gamble,40238.0,4352.0,Consumer Defensive
+32,Freddie Mac,39663.0,5764.0,Financial Services
+33,Costco Wholesale,38762.5,700.0,Consumer Defensive
+34,Johnson & Johnson,36298.0,6597.0,Healthcare
+35,Albertson's,35916.0,485.0,Consumer Defensive
+36,Dell,35404.0,2122.0,Technology
+37,Pfizer,35281.0,9126.0,Healthcare
+38,MetLife,34055.0,1605.0,Financial Services
+39,Kmart Holding,32765.0,-3691.0,Consumer Cyclical
+40,Morgan Stanley,32415.0,2988.0,Financial Services
+41,Safeway,32399.2,-828.1,Consumer Defensive
+42,J.C. Penney,32347.0,405.0,Consumer Cyclical
+43,United Parcel Service,31272.0,3182.0,Industrials
+44,Allstate,29579.0,1134.0,Financial Services
+45,Walgreen,28681.1,1019.2,Healthcare
+46,Wells Fargo,28473.0,5434.0,Financial Services
+47,Microsoft,28365.0,7829.0,Technology
+48,Merrill Lynch,28253.0,2513.0,Financial Services
+49,United Technologies,28212.0,2236.0,Industrials
+50,ConAgra Foods,27629.6,783.0,Consumer Defensive
+51,Dow Chemical,27609.0,-338.0,Basic Materials
+52,Marathon Oil,27470.0,516.0,Energy
+53,Delphi,27427.0,343.0,Consumer Cyclical
+54,Sprint,27180.0,630.0,Healthcare
+55,Valero Energy,26976.3,91.5,Energy
+56,Lockheed Martin,26806.0,500.0,Industrials
+57,Prudential Financial,26797.0,194.0,Financial Services
+58,Intel,26764.0,3117.0,Technology
+59,Motorola,26679.0,-2485.0,Technology
+60,Lowe's,26490.9,1471.5,Consumer Cyclical
+61,Walt Disney,25329.0,1236.0,Communication Services
+62,PepsiCo,25112.0,3313.0,Consumer Defensive
+63,UnitedHealth Group,25020.0,1352.0,Healthcare
+64,International Paper,24976.0,-880.0,Consumer Cyclical
+65,New York Life Insurance,24720.7,423.5,Financial Services
+66,Viacom,24605.7,725.7,Communication Services
+67,DuPont,24522.0,-1103.0,Basic Materials
+68,CVS,24181.5,716.6,Healthcare
+69,American Express,23807.0,2671.0,Financial Services
+70,Wachovia Corp.,23591.0,3579.0,Financial Services
+71,Archer Daniels Midland,23453.6,511.1,Consumer Defensive
+72,Tyson Foods,23367.0,383.0,Consumer Defensive
+73,Sysco,23350.5,679.8,Consumer Defensive
+74,Georgia-Pacific,23271.0,-735.0,Basic Materials
+75,Goldman Sachs Group,22854.0,2114.0,Financial Services
+76,Ingram Micro,22459.3,-275.2,Technology
+77,BellSouth,22440.0,1423.0,Communication Services
+78,Honeywell Intl.,22274.0,-220.0,Industrials
+79,Bank One Corp.,22171.0,3295.0,Financial Services
+80,Electronic Data Systems,21782.0,1116.0,Technology
+81,Supervalu,20908.5,198.3,Consumer Defensive
+82,Alcoa,20618.0,420.0,Basic Materials
+83,FedEx,20607.0,710.0,Industrials
+84,Mass. Mutual Life Ins.,20247.1,1430.0,Financial Services
+85,Caterpillar,20152.0,798.0,Industrials
+86,Johnson Controls,20103.4,600.5,Industrials
+87,Cigna,19915.0,-398.0,Healthcare
+88,Aetna,19878.7,-2522.5,Healthcare
+89,TIAA-CREF,19791.0,-136.8,Financial Services
+90,HCA,19729.0,833.0,Healthcare
+91,Best Buy,19597.0,570.0,Consumer Cyclical
+92,Coca-Cola,19564.0,3050.0,Consumer Defensive
+93,AutoNation,19478.5,381.6,Consumer Cyclical
+94,Washington Mutual,19037.0,3896.0,Financial Services
+95,Cisco Systems,18915.0,1893.0,Technology
+96,Weyerhaeuser,18521.0,241.0,Real Estate
+97,Visteon,18395.0,-352.0,Consumer Cyclical
+98,Bristol-Myers Squibb,18119.0,1895.0,Healthcare
+99,Northrop Grumman,17837.0,64.0,Industrials
+100,Abbott Laboratories,17684.7,2793.7,Healthcare
+101,Sara Lee,17628.0,1010.0,Consumer Defensive
+102,Fleming,17561.5,-83.8,Consumer Defensive
+103,WellPoint Health Networks,17338.5,703.1,Healthcare
+104,AMR,17299.0,-3511.0,Basic Materials
+105,Raytheon,16962.0,-587.0,Industrials
+106,Pharmacia,16929.0,597.0,Healthcare
+107,Loews,16898.0,940.9,Financial Services
+108,Coca-Cola Enterprises,16889.0,494.0,Consumer Defensive
+109,Lehman Brothers Hldgs.,16781.0,1031.0,Financial Services
+110,3M,16332.0,1974.0,Industrials
+111,Nationwide,15949.3,172.3,Financial Services
+112,Publix Super Markets,15930.6,632.4,Consumer Defensive
+113,Northwestern Mutual,15916.4,158.0,Financial Services
+114,Hartford Financial Services,15907.0,1000.0,Financial Services
+115,FleetBoston Financial,15868.0,1188.0,Financial Services
+116,Xerox,15849.0,91.0,Technology
+117,Tech Data,15738.9,-199.8,Technology
+118,Duke Energy,15663.0,1034.0,Utilities
+119,AT&T Wireless Services,15632.0,-2324.0,Communication Services
+120,American Electric Power,15583.0,-519.0,Utilities
+121,Qwest Communications,15487.0,-35913.0,Communication Services
+122,Federated Dept. Stores,15435.0,818.0,Consumer Cyclical
+123,U.S. Bancorp,15422.3,3289.2,Financial Services
+124,McDonald's,15405.7,893.5,Consumer Cyclical
+125,Rite Aid,15171.1,-827.7,Healthcare
+126,Exelon,14955.0,1440.0,Utilities
+127,Household International,14671.6,1557.8,Financial Services
+128,Wyeth,14584.0,4447.2,Healthcare
+129,Liberty Mutual Ins. Group,14544.0,508.0,Financial Services
+130,Gap,14454.7,477.5,Consumer Cyclical
+131,Lear,14424.6,13.0,Consumer Cyclical
+132,UAL,14286.0,-3212.0,Industrials
+133,Cendant,14243.0,846.0,Industrials
+134,TXU,14086.0,-4210.0,Utilities
+135,Deere,13947.0,319.2,Industrials
+136,Tenet Healthcare,13913.0,785.0,Healthcare
+137,General Dynamics,13863.0,917.0,Industrials
+138,Emerson Electric,13824.0,122.0,Industrials
+139,Goodyear Tire & Rubber,13792.2,-174.6,Consumer Cyclical
+140,PG&E Corp.,13784.0,-874.0,Utilities
+141,Lucent Technologies,13568.0,-11753.0,Technology
+142,Anheuser-Busch,13566.4,1933.8,Consumer Defensive
+143,Kimberly-Clark,13566.3,1674.6,Consumer Defensive
+144,May Dept. Stores,13491.0,542.0,Consumer Cyclical
+145,Delta Air Lines,13305.0,-1272.0,Industrials
+146,Wellpoint,13282.3,549.1,Healthcare
+147,Express Scripts,13187.4,202.8,Healthcare
+148,AdvancePCS,13107.3,115.7,Healthcare
+149,Winn-Dixie Stores,12942.9,86.9,Consumer Defensive
+150,Eastman Kodak,12841.0,770.0,Industrials
+151,Circuit City Stores,12791.5,218.8,Consumer Cyclical
+152,El Paso,12616.0,644.0,Energy
+153,Halliburton,12572.0,-984.0,Energy
+154,Sunoco,12550.0,-47.0,Energy
+155,Sun Microsystems,12496.0,-587.0,Technology
+156,Union Pacific,12491.0,1341.0,Industrials
+157,Comcast,12460.0,-274.0,Communication Services
+158,Solectron,12276.2,-3110.2,Technology
+159,FirstEnergy,12152.0,629.3,Utilities
+160,Cinergy,11990.1,360.6,Utilities
+161,TJX,11981.2,578.4,Consumer Cyclical
+162,Amerada Hess,11932.0,-218.0,Energy
+163,Edison International,11838.0,1077.0,Utilities
+164,Reliant Energy,11653.7,-12.6,Utilities
+165,Staples,11596.1,446.1,Consumer Defensive
+166,Office Depot,11437.5,310.7,Consumer Cyclical
+167,Computer Sciences,11426.0,344.1,Technology
+168,Toys `R` Us,11305.0,229.0,Consumer Cyclical
+169,Humana,11261.2,142.8,Healthcare
+170,PacifiCare Health Sys.,11156.5,-757.8,Healthcare
+171,Waste Management,11142.0,822.0,Industrials
+172,Eli Lilly,11077.5,2707.9,Healthcare
+173,Whirlpool,11016.0,-394.0,Consumer Cyclical
+174,Textron,10658.0,-124.0,Industrials
+175,Marriott International,10619.0,277.0,Consumer Cyclical
+176,Manpower,10610.9,113.2,Industrials
+177,Southern,10549.0,1318.0,Utilities
+178,Marsh & McLennan,10440.0,1365.0,Financial Services
+179,MBNA,10430.9,1766.0,Financial Services
+180,Xcel Energy,10341.0,-2006.0,Utilities
+181,AES,10332.0,-3509.0,Utilities
+182,Dana,10283.0,-182.0,Consumer Cyclical
+183,AFLAC,10257.0,821.0,Financial Services
+184,Dominion Resources,10218.0,1362.0,Utilities
+185,Health Net,10201.5,228.6,Healthcare
+186,Fluor,10190.0,163.6,Industrials
+187,Schering-Plough,10180.0,1974.0,Healthcare
+188,Nike,9893.0,663.3,Consumer Cyclical
+189,Illinois Tool Works,9812.2,712.6,Industrials
+190,Oracle,9673.0,2224.0,Technology
+191,Capital One Financial,9647.6,899.6,Financial Services
+192,UnumProvident,9560.4,367.0,Financial Services
+193,Northwest Airlines,9489.0,-798.0,Industrials
+194,H.J. Heinz,9431.0,833.9,Consumer Defensive
+195,Masco,9419.4,589.7,Industrials
+196,Williams,9390.8,-754.7,Energy
+197,Progressive,9294.4,667.3,Financial Services
+198,Colgate-Palmolive,9294.3,1288.3,Consumer Defensive
+199,USAA,9221.9,500.3,Financial Services
+200,Pepsi Bottling,9216.0,428.0,Consumer Defensive
+201,Dean Foods,9213.4,175.4,Consumer Defensive
+202,Limited Brands,9152.9,501.7,Consumer Cyclical
+203,Chubb,9140.3,222.9,Financial Services
+204,Kohl's,9120.3,643.4,Consumer Cyclical
+205,Burlington No. Santa Fe,8979.0,760.0,Industrials
+206,Avnet,8920.2,-664.9,Technology
+207,St. Paul Travelers Cos.,8917.7,217.8,Financial Services
+208,John Hancock Financial Svcs.,8910.7,516.2,Financial Services
+209,Countrywide Financial,8875.2,841.8,Financial Services
+210,Principal Financial,8868.3,142.3,Financial Services
+211,Public Service Enterprise Group,8829.0,245.0,Utilities
+212,Aon,8822.0,466.0,Financial Services
+213,Aramark,8769.8,269.9,Industrials
+214,Sanmina-SCI,8761.6,-2696.8,Technology
+215,National City Corp.,8727.9,1593.6,Financial Services
+216,Nextel Communications,8721.0,1386.0,Communication Services
+217,Consolidated Edison,8481.9,658.5,Utilities
+218,Gillette,8453.0,1216.0,Consumer Defensive
+219,Clear Channel Communications,8421.1,-16053.7,Communication Services
+220,Continental Airlines,8402.0,-451.0,Industrials
+221,Plains All Amer. Pipeline,8384.2,65.3,Energy
+222,Baxter International,8384.0,778.0,Healthcare
+223,Texas Instruments,8383.0,-344.0,Technology
+224,Entergy,8305.0,623.1,Utilities
+225,Kellogg,8304.1,720.9,Consumer Defensive
+226,FPL Group,8280.0,473.0,Utilities
+227,Genuine Parts,8258.9,-27.6,Consumer Cyclical
+228,Progress Energy,8244.9,528.4,Energy
+229,Dillard's,8233.9,-398.4,Consumer Cyclical
+230,Smurfit-Stone Container,8209.0,65.0,Basic Materials
+231,CSX,8152.0,424.0,Industrials
+232,Guardian Life of America,8136.1,-462.6,Financial Services
+233,PPG Industries,8067.0,-69.0,Basic Materials
+234,Alltel,7983.4,924.3,Communication Services
+235,General Mills,7949.0,458.0,Consumer Defensive
+236,CenterPoint Energy,7922.5,-3920.2,Utilities
+237,CHS,7845.2,N.A.,Basic Materials
+238,American Standard,7795.4,371.0,Industrials
+239,Ashland,7792.0,117.0,Basic Materials
+240,Yum Brands,7757.0,583.0,Consumer Cyclical
+241,Centex,7748.4,382.2,Real Estate
+242,First Data,7636.2,1237.9,Financial Services
+243,Farmland Industries,7580.2,N.A.,Real Estate
+244,United Auto Group,7576.5,62.2,Consumer Cyclical
+245,Arrow Electronics,7570.7,-610.5,Technology
+246,Calpine,7551.4,118.6,Utilities
+247,Omnicom Group,7536.3,643.5,Communication Services
+248,SunTrust Banks,7526.9,1331.8,Financial Services
+249,MeadWestvaco,7489.0,-389.0,Basic Materials
+250,Pulte Homes,7471.8,453.6,Consumer Cyclical
+251,Newell Rubbermaid,7453.9,-203.4,Consumer Defensive
+252,Occidental Petroleum,7429.0,989.0,Energy
+253,Sonic Automotive,7414.6,106.6,Consumer Cyclical
+254,OfficeMax,7412.3,11.3,Consumer Cyclical
+255,Smithfield Foods,7356.1,196.9,Consumer Defensive
+256,Lennar,7319.8,545.1,Consumer Cyclical
+257,Paccar,7218.6,372.0,Industrials
+258,Eaton,7209.0,281.0,Industrials
+259,Mirant,7125.0,-197.0,Utilities
+260,Safeco,7065.1,301.1,Financial Services
+261,Automatic Data Proc.,7004.3,1100.8,Industrials
+262,US Airways Group,6977.0,-1646.0,Industrials
+263,Tesoro,6952.3,-117.0,Basic Materials
+264,United States Steel,6949.0,61.0,Basic Materials
+265,Bear Stearns,6890.8,878.3,Financial Services
+266,ArvinMeritor,6882.0,107.0,Consumer Cyclical
+267,Caremark Rx,6805.3,781.4,Healthcare
+268,Crown Holdings,6792.0,-1205.0,Consumer Cyclical
+269,Premcor,6772.8,-127.1,Energy
+270,DTE Energy,6749.0,632.0,Utilities
+271,D.R. Horton,6738.8,404.7,Consumer Cyclical
+272,CMS Energy,6676.0,199.0,Utilities
+273,NiSource,6525.0,372.5,Utilities
+274,Navistar International,6513.0,-536.0,Industrials
+275,Gannett,6422.2,1160.1,Communication Services
+276,Medtronic,6410.8,984.0,Healthcare
+277,PNC Financial Services,6369.0,1184.0,Financial Services
+278,Fifth Third Bancorp,6323.5,1634.7,Financial Services
+279,Norfolk Southern,6270.0,460.0,Industrials
+280,Avon Products,6228.3,534.6,Consumer Defensive
+281,Reynolds American,6211.0,-44.0,Consumer Cyclical
+282,Interpublic Group,6203.6,99.5,Communication Services
+283,Parker Hannifin,6149.1,130.2,Industrials
+284,Conseco,6147.8,-6204.0,Financial Services
+285,KeyCorp,6135.0,976.0,Financial Services
+286,Campbell Soup,6133.0,525.0,Consumer Defensive
+287,BB&T Corp.,6126.5,1303.0,Financial Services
+288,Science Applications Intl.,6104.4,7.5,Technology
+289,Dollar General,6100.4,264.9,Consumer Defensive
+290,KeySpan,6086.8,377.7,Utilities
+291,Sempra Energy,6020.0,591.0,Utilities
+292,Agilent Technologies,6010.0,-1032.0,Healthcare
+293,Nordstrom,5975.1,90.2,Consumer Cyclical
+294,Saks,5911.1,24.2,Consumer Cyclical
+295,BJ's Wholesale Club,5901.8,130.9,Consumer Defensive
+296,Cummins,5853.0,73.0,Industrials
+297,Land O'Lakes,5847.0,N.A.,Consumer Defensive
+298,Owens-Illinois,5760.1,-460.2,Consumer Cyclical
+299,Bank of New York Co.,5756.0,902.0,Financial Services
+300,Apple Computer,5742.0,65.0,Technology
+301,Rohm & Haas,5727.0,-570.0,Basic Materials
+302,Thrivent Financial for Lutherans,5618.0,-345.9,Financial Services
+303,Unisys,5607.4,223.0,Technology
+304,NCR,5585.0,-220.0,Technology
+305,Amgen,5523.0,-1391.9,Healthcare
+306,Southwest Airlines,5521.8,241.0,Industrials
+307,Allied Waste Industries,5517.3,215.1,Industrials
+308,EMC,5438.4,-118.7,Industrials
+309,PPL,5429.0,208.0,Utilities
+310,Federal-Mogul,5422.4,-1628.9,Consumer Cyclical
+311,Air Products & Chem.,5401.2,525.4,Basic Materials
+312,Tribune,5384.4,443.0,Communication Services
+313,Fortune Brands,5366.6,525.6,Industrials
+314,AutoZone,5325.5,428.1,Consumer Cyclical
+315,Eastman Chemical,5320.0,61.0,Basic Materials
+316,Unocal,5297.0,331.0,Energy
+317,CIT Group,5275.1,-6698.7,Financial Services
+318,Barnes & Noble,5269.3,99.9,Consumer Cyclical
+319,IAC/Interactive,5214.7,1936.0,Communication Services
+320,Baker Hughes,5207.5,168.9,Energy
+321,Sherwin-Williams,5184.8,127.6,Basic Materials
+322,VF,5181.5,-154.5,Consumer Cyclical
+323,American Family Ins. Grp.,5144.7,58.2,Financial Services
+324,Praxair,5128.0,409.0,Basic Materials
+325,WellChoice,5105.6,376.5,Healthcare
+326,Fidelity National Financial,5082.6,531.7,Financial Services
+327,Applied Materials,5062.3,269.0,Technology
+328,SPX,5045.8,127.5,Industrials
+329,Cox Communications,5038.6,-274.0,Consumer Cyclical
+330,Northeast Utilities,5034.9,152.1,Utilities
+331,OM Group,5034.4,-327.9,Basic Materials
+332,KB Home,5030.8,314.4,Consumer Cyclical
+333,ITT Industries,4985.3,379.9,Industrials
+334,Oxford Health Plans,4963.4,222.0,Healthcare
+335,Avaya,4956.0,-666.0,Technology
+336,Dynegy,4950.0,-2802.0,Utilities
+337,Mattel,4885.3,230.1,Consumer Cyclical
+338,Owens Corning,4872.0,-2809.0,Industrials
+339,Ikon Office Solutions,4827.5,150.3,Technology
+340,State St. Corp.,4824.0,1015.0,Financial Services
+341,Echostar Communications,4820.8,-881.6,Technology
+342,Nucor,4801.8,162.1,Basic Materials
+343,McGraw-Hill,4787.7,576.8,Communication Services
+344,Maytag,4778.5,188.8,Consumer Cyclical
+345,Ryder System,4776.3,93.7,Industrials
+346,OfficeMax,4775.6,73.7,Consumer Cyclical
+347,CNF,4762.1,101.8,Financial Services
+348,R.R. Donnelley & Sons,4754.9,142.2,Industrials
+349,Estee Lauder,4743.7,191.9,Consumer Defensive
+350,Mellon Financial Corp.,4737.0,682.0,Financial Services
+351,First American Corp.,4704.2,234.4,Financial Services
+352,Constellation Energy,4703.0,525.6,Utilities
+353,Temple-Inland,4660.0,53.0,Basic Materials
+354,Caesars Entertainment,4652.0,-824.0,Consumer Cyclical
+355,W.W. Grainger,4643.9,211.6,Industrials
+356,Lincoln National,4635.5,91.6,Financial Services
+357,Danaher,4577.2,290.4,Healthcare
+358,RadioShack,4577.2,263.4,Consumer Cyclical
+359,Jacobs Engineering Grp.,4555.7,109.7,Industrials
+360,Asbury Automotive Group,4539.9,38.1,Consumer Cyclical
+361,Mohawk Industries,4522.3,284.5,Consumer Cyclical
+362,Charter Communications,4522.3,-959.5,Communication Services
+363,Foot Locker,4509.0,144.0,Consumer Cyclical
+364,Charles Schwab,4480.0,109.0,Financial Services
+365,Autoliv,4443.4,180.5,Consumer Cyclical
+366,Performance Food Group,4438.4,66.5,Consumer Defensive
+367,Longs Drug Stores,4426.3,6.7,Consumer Defensive
+368,Pitney Bowes,4409.8,475.8,Industrials
+369,Devon Energy,4396.0,104.0,Energy
+370,Black & Decker,4394.0,229.7,Industrials
+371,Dole Food,4392.1,36.3,Consumer Defensive
+372,Darden Restaurants,4368.7,237.8,Consumer Cyclical
+373,Lexmark International,4356.4,366.7,Technology
+374,Mutual of Omaha Ins.,4352.9,-14.2,Financial Services
+375,Jones Apparel Group,4340.9,318.5,Consumer Cyclical
+376,AK Steel Holding,4340.4,-502.4,Basic Materials
+377,Pepco Holdings,4324.5,231.1,Consumer Defensive
+378,Kelly Services,4323.5,18.6,Industrials
+379,HealthSouth,4310.8,-270.1,Healthcare
+380,Leggett & Platt,4271.8,233.1,Consumer Cyclical
+381,CDW,4264.6,185.2,Technology
+382,Dover,4251.0,-121.3,Industrials
+383,Group 1 Automotive,4214.4,67.1,Consumer Cyclical
+384,Avery Dennison,4206.9,257.2,Consumer Cyclical
+385,Goodrich,4199.7,117.9,Industrials
+386,Harrah's Entertainment,4172.1,235.0,Consumer Cyclical
+387,Gateway,4171.3,-297.7,Industrials
+388,Family Dollar Stores,4162.7,216.9,Consumer Defensive
+389,Levi Strauss,4136.6,25.0,Consumer Cyclical
+390,Hershey Foods,4120.3,403.6,Consumer Defensive
+391,Quest Diagnostics,4108.1,322.2,Healthcare
+392,Harley-Davidson,4091.0,580.2,Consumer Cyclical
+393,Providian Financial,4072.6,218.2,Financial Services
+394,Clorox,4061.0,322.0,Consumer Defensive
+395,Brink's,4043.2,26.1,Industrials
+396,Becton Dickinson,4033.1,480.0,Healthcare
+397,MGM Mirage,4031.3,292.4,Consumer Cyclical
+398,L-3 Communications,4011.2,178.1,Industrials
+399,Energy East,4008.9,188.6,Energy
+400,Cablevision Systems,4003.4,90.1,Communication Services
+401,Graybar Electric,3987.0,11.4,Basic Materials
+402,Murphy Oil,3975.7,111.5,Energy
+403,NTL Europe,3969.5,-12748.0,Communication Services
+404,Emcor Group,3968.1,62.9,Industrials
+405,Owens & Minor,3959.8,47.3,Healthcare
+406,Pathmark Stores,3938.1,-52.2,Consumer Defensive
+407,Amazon.Com,3932.9,-149.1,Consumer Cyclical
+408,Hormel Foods,3910.3,189.3,Consumer Defensive
+409,Rockwell Automation,3909.0,121.0,Industrials
+410,Nash Finch,3900.0,29.7,Consumer Defensive
+411,Collins & Aikman,3885.8,-53.5,Consumer Cyclical
+412,Starwood Hotels & Rsrts.,3879.0,355.0,Consumer Cyclical
+413,Big Lots,3868.6,76.6,Consumer Defensive
+414,Anadarko Petroleum,3860.0,831.0,Energy
+415,Ball,3858.9,156.1,Basic Materials
+416,Hilton Hotels,3847.0,198.0,Consumer Cyclical
+417,York International,3843.4,-98.3,Industrials
+418,Ameren,3841.0,382.0,Utilities
+419,Pacific Life,3816.0,49.8,Financial Services
+420,Regions Financial,3795.9,619.9,Financial Services
+421,Maxtor,3779.5,-334.1,Technology
+422,Molson Coors Brewing,3776.3,161.7,Consumer Defensive
+423,Engelhard,3753.6,171.4,Basic Materials
+424,American Financial Grp.,3749.6,84.6,Financial Services
+425,Golden West Financial,3744.0,958.3,Financial Services
+426,Kerr-McGee,3736.0,-475.9,Energy
+426,Wisconsin Energy,3736.0,167.0,Utilities
+428,Phelps Dodge,3722.0,-341.6,Basic Materials
+429,Liz Claiborne,3717.5,231.2,Consumer Cyclical
+430,Brunswick,3711.9,78.4,Consumer Cyclical
+431,United Stationers,3701.6,60.2,Industrials
+432,Peter Kiewit Sons',3699.0,193.0,Industrials
+433,Comerica,3697.0,601.0,Financial Services
+434,Host Marriott,3680.0,-16.0,Consumer Cyclical
+435,Washington Group Intl.,3661.5,559.9,Industrials
+436,Roundy's,3637.9,N.A.,Consumer Defensive
+437,ServiceMaster,3628.0,156.9,Industrials
+438,Enterprise Products,3623.8,95.5,Energy
+439,Coventry Health Care,3576.9,145.6,Healthcare
+440,Bethlehem Steel,3572.4,-699.6,Basic Materials
+441,Jabil Circuit,3545.5,34.7,Technology
+442,Triad Hospitals,3541.1,141.5,Healthcare
+443,Interstate Bakeries,3532.4,69.8,Consumer Defensive
+444,Ross Stores,3531.3,201.2,Consumer Cyclical
+445,Auto-Owners Insurance,3514.1,207.2,Financial Services
+446,Borders Group,3513.0,111.7,Consumer Cyclical
+447,Spartan Stores,3510.4,9.8,Consumer Defensive
+448,Equity Office Properties,3506.1,770.2,Real Estate
+449,Encompass Services,3486.3,-1217.0,Healthcare
+450,American Axle & Mfg.,3480.2,176.1,Consumer Cyclical
+451,Jefferson-Pilot,3480.0,474.8,Financial Services
+452,USG,3468.0,43.0,Basic Materials
+453,Tenneco Automotive,3459.0,-187.0,Consumer Cyclical
+454,Erie Insurance Group,3439.8,-183.2,Financial Services
+455,Corning,3432.0,-1302.0,Technology
+456,Allmerica Financial,3419.2,-306.1,Financial Services
+457,Ecolab,3403.6,209.8,Basic Materials
+458,Airborne,3343.7,14.8,Communication Services
+459,Cooper Tire & Rubber,3330.0,111.8,Consumer Cyclical
+460,SouthTrust Corp.,3326.4,649.9,Financial Services
+461,Wesco International,3325.8,23.1,Industrials
+462,H&R Block,3317.7,434.4,Consumer Cyclical
+463,Kindred Healthcare,3299.1,50.7,Healthcare
+464,C.H. Robinson Worldwide,3294.5,96.3,Industrials
+465,Starbucks,3288.9,215.1,Consumer Cyclical
+466,Advance Auto Parts,3287.9,65.0,Consumer Cyclical
+467,Lyondell Chemical,3262.0,-148.0,Basic Materials
+468,Universal Health Svcs.,3258.9,175.4,Healthcare
+469,ShopKo Stores,3252.8,-144.8,Consumer Cyclical
+470,PepsiAmericas,3239.8,129.7,Consumer Defensive
+471,Guidant,3239.6,611.8,Healthcare
+472,Fisher Scientific Intl.,3238.4,50.6,Healthcare
+473,SLM,3232.4,792.0,Financial Services
+474,Yellow Roadway,3205.3,-93.9,industrials
+475,Sealed Air,3204.3,-309.1,Consumer Cyclical
+476,Roadway,3181.8,38.9,Industrials
+477,Aquila,3179.3,-1103.4,Energy
+478,Armstrong Holdings,3172.3,-2142.8,Industrials
+479,Shaw Group,3170.7,98.4,Industrials
+480,Smith International,3170.1,93.2,Industrials
+481,Level 3 Communications,3148.0,-858.0,Communication Services
+482,NVR,3136.3,331.5,Consumer Cyclical
+483,Reebok International,3127.9,126.4,Consumer Cyclical
+484,OGE Energy,3103.4,90.8,Utilities
+485,Steelcase,3089.5,1.0,Industrials
+486,New York Times,3079.0,299.7,Communication Services
+487,Hughes Supply,3066.3,58.1,Industrials
+488,Affiliated Computer Svcs.,3062.9,229.6,Technology
+489,Qualcomm,3039.6,359.7,Technology
+490,Ace Hardware,3029.0,N.A.,Consumer Cyclical
+491,Lennox International,3025.8,-190.4,Industrials
+492,AmSouth Bancorp.,3024.6,609.1,Financial Services
+493,Stryker,3011.6,345.6,Healthcare
+494,Sierra Pacific Resources,2991.7,-307.5,Utilities
+495,Telephone & Data Sys.,2985.4,-984.4,Communication Services
+496,Allegheny Energy,2964.8,-269.8,Utilities
+497,Burlington Resources,2964.0,454.0,Consumer Cyclical
+497,Computer Assoc. Intl.,2964.0,-1102.0,Technology
+499,SCANA,2954.0,-142.0,Industrials
+500,Neiman Marcus,2948.3,99.6,Consumer Cyclical

@@ -1,0 +1,501 @@
+rank,company,revenue ($ millions),profit ($ millions),Sector
+1,General Motors,102813.7,2944.7,Consumer Cyclical
+2,Exxon Mobil,69888.0,5360.0,Energy
+3,Ford Motor,62715.8,3285.1,Consumer Cyclical
+4,Intl. Business Machines,51250.0,4789.0,Technology
+5,Mobil,44866.0,1407.0,Energy
+6,General Electric,35211.0,2492.0,Industrials
+7,AT&T,34087.0,139.0,Communication Services
+8,Texaco,31613.0,725.0,Energy
+9,DuPont,27148.0,1538.0,Basic Materials
+10,ChevronTexaco,24351.0,715.0,Energy
+11,Chrysler,22513.5,1403.6,Consumer Cyclical
+12,Altria Group,20681.0,1478.0,Consumer Defensive
+13,Amoco,18281.0,747.0,Energy
+14,Nabisco Group Holdings,16998.0,1064.0,Consumer Defensive
+15,Shell Oil,16833.0,883.0,Energy
+16,Boeing,16341.0,665.0,Industrials
+17,United Technologies,15669.2,72.7,Industrials
+18,Procter & Gamble,15439.0,709.0,Consumer Defensive
+19,Occidental Petroleum,15344.1,181.1,Energy
+20,Atlantic Richfield,14585.8,615.1,Energy
+21,Tenneco Automotive,14558.0,-39.0,Consumer Cyclical
+22,Marathon Oil,14000.0,-1833.0,Energy
+23,McDonnell Douglas,12660.6,277.5,Industrials
+24,Rockwell Automation,12295.7,611.2,Industrials
+25,Honeywell Intl.,11794.0,605.0,Industrials
+26,Eastman Kodak,11550.0,374.0,Industrials
+27,Dow Chemical,11113.0,732.0,Basic Materials
+28,CBS,10731.0,670.8,Communication Services
+29,Goodyear Tire & Rubber,10327.7,124.1,Consumer Cyclical
+30,Lockheed Martin,10273.0,408.0,Industrials
+31,ConocoPhillips,9786.0,228.0,Energy
+32,Xerox,9377.0,465.0,Technology
+33,Sunoco,9376.0,385.0,Energy
+34,PepsiCo,9290.8,457.5,Consumer Defensive
+35,BP America,9219.0,-345.0,Energy
+36,General Dynamics,9211.4,-52.5,Industrials
+37,Kraft,8742.2,413.2,Consumer Defensive
+38,Coca-Cola,8668.6,934.3,Consumer Defensive
+39,3M,8602.0,779.0,Industrials
+40,Sara Lee,7937.7,223.5,Consumer Defensive
+41,ITT Industries,7895.5,493.7,Industrials
+42,Union Carbide,7828.0,496.0,Basic Materials
+43,Anheuser-Busch,7677.2,518.0,Consumer Defensive
+44,Digital Equipment,7590.4,617.4,Technology
+45,Unocal,7482.0,176.0,Energy
+46,Unisys,7432.4,-43.4,Technology
+47,Caterpillar,7321.0,76.0,Industrials
+48,Raytheon,7308.0,393.2,Industrials
+49,LTV,7271.4,-3251.6,Technology
+50,Georgia-Pacific,7223.0,296.0,Basic Materials
+51,Hewlett-Packard,7102.0,516.0,Technology
+52,Honeywell,7086.7,-398.1,Industrials
+53,Johnson & Johnson,7002.9,329.5,Healthcare
+54,Ashland,6991.3,208.6,Basic Materials
+55,Monsanto,6879.0,433.0,Basic Materials
+56,Sealed Air,6808.3,-472.3,Consumer Cyclical
+57,Coastal,6668.2,71.6,Financial Services
+58,TRW,6450.1,217.7,Industrials
+59,ConAgra Foods,5911.0,105.3,Consumer Defensive
+60,Motorola,5888.0,194.0,Technology
+61,Pillsbury,5847.9,208.1,Consumer Defensive
+62,Weyerhaeuser,5652.0,276.7,Real Estate
+63,Baxter International,5634.0,444.0,Healthcare
+64,Northrop Grumman,5608.4,41.2,Industrials
+65,Ralston Purina,5514.6,388.7,Consumer Defensive
+66,International Paper,5501.0,305.0,Consumer Cyclical
+67,Archer Daniels Midland,5336.0,230.4,Consumer Defensive
+68,Fortune Brands,5261.2,365.3,Industrials
+69,Textron,5226.3,239.2,Industrials
+70,Borden Chemical,5002.1,223.3,Basic Materials
+71,Colgate-Palmolive,4984.6,177.5,Consumer Defensive
+72,Texas Instruments,4974.0,29.1,Technology
+73,Emerson Electric,4952.9,408.9,Industrials
+74,Wyeth,4926.5,778.8,Healthcare
+75,NCR,4881.6,336.5,Technology
+76,Bristol-Myers Squibb,4835.9,589.5,Healthcare
+77,Martin Marietta,4752.5,202.3,Basic Materials
+78,PPG Industries,4687.1,316.4,Basic Materials
+79,Alcoa,4667.2,254.1,Basic Materials
+80,General Mills,4586.6,183.5,Consumer Defensive
+81,Bestfoods,4548.8,219.2,Consumer Defensive
+82,North American Philips,4531.6,68.5,Industrials
+83,Litton Industries,4521.0,71.1,Industrials
+84,Pfizer,4476.0,660.0,Healthcare
+85,Whitman,4439.4,-136.7,Consumer Defensive
+86,Champion International,4387.6,200.8,Basic Materials
+87,Campbell Soup,4378.7,223.2,Consumer Defensive
+88,H.J. Heinz,4366.2,301.7,Consumer Defensive
+89,Bethlehem Steel,4332.9,-152.7,Basic Materials
+90,Kimberly-Clark,4303.1,269.4,Consumer Defensive
+91,Merck,4128.9,675.7,Healthcare
+92,Amerada Hess,4014.7,-219.4,Energy
+93,Whirlpool,4008.7,199.6,Consumer Cyclical
+94,American Cyanamid,3815.9,202.5,Basic Materials
+95,Eaton,3811.6,137.6,Industrials
+96,Abbott Laboratories,3807.6,540.5,Healthcare
+97,Hanson Industries NA,3768.5,103.1,Industrials
+98,Time Warner,3762.1,376.4,Communication Services
+99,US Pharmaceuticals,3745.4,521.1,Healthcare
+100,OfficeMax,3740.0,101.5,Consumer Cyclical
+101,Eli Lilly,3720.4,558.2,Healthcare
+102,Firestone Tire & Rubber,3712.0,85.0,Consumer Cyclical
+103,Dana,3695.1,85.9,Consumer Cyclical
+104,Quaker Oats,3670.7,179.6,Consumer Defensive
+105,Dresser Industries,3661.3,9.6,Industrials
+106,BASF,3645.4,104.6,Basic Materials
+107,Owens Corning,3644.4,15.6,Industrials
+108,Owens-Illinois,3641.8,179.2,Consumer Cyclical
+109,Reynolds Metals,3638.9,191.8,Consumer Cyclical
+110,BorgWarner,3623.4,206.3,Consumer Cyclical
+111,Deere,3516.3,-229.3,Industrials
+112,Agway,3510.5,N.A.,Consumer Cyclical
+113,American Motors,3462.5,-91.3,Consumer Cyclical
+114,Grumman,3440.1,78.7,Industrials
+115,Scott Paper,3437.0,186.5,Consumer Defensive
+116,Cooper Industries,3433.3,147.7,Healthcare
+117,Bayer Corporation,3410.0,93.8,Healthcare
+118,Navistar International,3356.5,1.7,Industrials
+119,Control Data,3346.7,-264.5,Technology
+120,Kellogg,3340.7,318.9,Consumer Defensive
+121,American Standard,3324.6,188.5,Industrials
+122,Chiquita Brands Intl.,3306.7,53.8,Consumer Defensive
+123,Ryerson Tull,3276.2,19.3,Basic Materials
+124,Teledyne,3241.4,238.3,Technology
+125,Mead,3217.7,36.3,Consumer Defensive
+126,Chesebrough-Pond's,3121.3,N.A.,Consumer Defensive
+127,Warner-Lambert,3102.9,309.5,Healthcare
+128,GenCorp,3099.0,130.0,Industrials
+129,ARMCO,3085.7,-472.0,Basic Materials
+130,Maxus Energy,3079.2,-115.6,Energy
+131,FMC,3002.7,152.5,Basic Materials
+132,Staley Continental,2996.4,26.2,Consumer Defensive
+133,Times Mirror,2920.3,408.1,Communication Services
+134,Celanese,2891.0,213.0,Basic Materials
+135,Avon Products,2883.1,158.7,Consumer Defensive
+136,USG,2869.9,225.5,Basic Materials
+137,Gillette,2818.3,15.8,Consumer Defensive
+138,Gannett,2801.5,276.4,Communication Services
+139,Ingersoll-Rand,2799.5,94.0,Industrials
+140,Burlington Industries Equity,2778.1,56.5,Consumer Cyclical
+141,Sipco,2763.2,4.4,Industrials
+142,Farmland Industries,2690.1,N.A.,Real Estate
+143,Fruehauf,2680.0,N.A.,Industrials
+144,Triangle Industries,2667.9,12.9,Industrials
+145,Kidde,2649.4,25.2,Industrials
+146,Wang Laboratories,2642.5,50.9,Technology
+147,Johnson Controls,2639.4,95.9,Industrials
+148,Hercules,2615.1,226.7,Financial Services
+149,Fort James,2606.9,95.3,Consumer Defensive
+150,Goodrich,2553.3,32.7,Industrials
+151,Combustion Engineering,2551.5,50.9,Industrials
+152,Kerr-McGee,2535.0,-292.0,Energy
+153,Squibb,2530.4,396.3,Healthcare
+154,Furniture Brands Intl.,2510.7,92.3,Consumer Cyclical
+155,Lever Brothers,2474.6,-18.6,Consumer Defensive
+156,Lear Siegler,2464.1,55.5,Industrials
+157,Schering-Plough,2398.7,265.8,Healthcare
+158,Penn Central,2387.9,154.2,Industrials
+159,Walter Industries,2320.5,138.6,Basic Materials
+160,Cummins,2303.7,-107.3,Industrials
+161,Engelhard,2289.5,53.3,Basic Materials
+162,Pharmacia,2280.3,252.6,Healthcare
+163,Sherwin-Williams,2253.2,106.0,Basic Materials
+164,R.R. Donnelley & Sons,2233.5,158.3,Industrials
+165,Kaisertech,2233.5,-32.7,Industrials
+166,Harris,2216.6,59.6,Energy
+167,Land O'Lakes,2215.1,N.A.,Consumer Defensive
+168,Hershey Foods,2169.6,132.8,Consumer Defensive
+169,Singer,2095.0,82.6,Consumer Cyclical
+170,Emhart,2094.3,-10.2,Industrials
+171,Quantum Chemical,2093.7,75.6,Basic Materials
+172,Rohm & Haas,2067.0,138.0,Basic Materials
+173,Union Camp,2045.2,129.9,Basic Materials
+174,Great Northern Nekoosa,2039.2,85.3,Basic Materials
+175,Stone Container,2032.3,35.4,Basic Materials
+176,Tribune,2029.8,292.9,Communication Services
+177,Sterling Drug,1990.4,171.5,Healthcare
+178,Pitney Bowes,1986.7,167.9,Industrials
+179,Air Products & Chem.,1982.1,4.7,Basic Materials
+180,Alumax,1974.3,70.1,Basic Materials
+181,Hormel Foods,1960.2,39.1,Consumer Defensive
+182,FINA,1960.0,-24.6,Energy
+183,Premark International,1959.0,-98.3,Industrials
+184,Thiokol,1949.9,132.9,Industrials
+185,AMP,1933.1,164.3,Financial Services
+186,Sunbeam/Oster,1924.2,-164.0,Consumer Cyclical
+187,Armstrong Holdings,1920.3,122.4,Industrials
+188,Manville,1920.3,81.2,Basic Materials
+189,Knight-Ridder,1910.7,140.0,Communication Services
+190,Apple Computer,1901.9,154.0,Technology
+191,Zenith Electronics,1892.1,-10.0,Technology
+192,Valero Energy,1880.1,-99.9,Energy
+193,Corning,1856.3,177.1,Technology
+194,Maytag,1838.5,111.2,Consumer Cyclical
+195,WestPoint Stevens,1813.4,54.5,Consumer Cyclical
+196,Westvaco,1811.9,108.1,Basic Materials
+197,J.E. Seagram,1809.6,247.0,Consumer Defensive
+198,Paccar,1795.6,54.3,Industrials
+199,Black & Decker,1791.2,6.3,Industrials
+200,Pennzoil,1782.2,45.4,Consumer Defensive
+201,Parker Hannifin,1730.2,88.2,Industrials
+202,Brunswick,1717.4,110.3,Consumer Cyclical
+203,Mack Trucks,1711.8,-30.6,Industrials
+204,Olin,1707.3,75.2,Basic Materials
+205,Imcera Group,1702.6,-217.0,Healthcare
+206,Koppers,1695.9,77.5,Basic Materials
+207,National Gypsum,1694.2,55.3,Basic Materials
+208,J.P. Stevens,1671.9,53.7,Consumer Cyclical
+209,Revlon,1650.0,N.A.,Consumer Defensive
+210,Hoechst Celanese,1649.7,37.8,Basic Materials
+211,Polaroid,1629.2,103.5,Consumer Cyclical
+212,Crown Holdings,1618.9,79.4,Consumer Cyclical
+213,Coltec Industries,1616.3,89.3,Industrials
+214,General Signal,1583.4,74.6,Industrials
+215,Ethyl,1579.2,177.7,Basic Materials
+216,Monfort of Colorado,1577.0,25.1,Consumer Defensive
+217,McGraw-Hill,1576.8,154.0,Communication Services
+218,Mapco,1569.9,74.1,Energy
+219,New York Times,1564.7,132.2,Communication Services
+220,Baker Hughes,1557.2,-273.0,Energy
+221,Stanley Works,1549.6,78.7,Industrials
+222,Fort Howard,1549.3,146.4,Basic Materials
+223,VF,1544.6,129.3,Consumer Cyclical
+224,Louisiana-Pacific,1506.2,187.9,Industrials
+225,Springs Industries,1505.0,32.6,Consumer Cyclical
+226,Tyson Foods,1503.7,50.3,Consumer Defensive
+227,National Semiconductor,1478.1,-91.5,Technology
+228,Central Soya,1475.5,1.8,Consumer Defensive
+229,Wilson Foods,1454.2,-23.5,Consumer Defensive
+230,Masco,1452.0,203.4,Industrials
+231,Aeroquip-Vickers,1447.3,122.6,Industrials
+232,AMAX,1443.7,14.3,Basic Materials
+233,Cyclops Industries,1440.9,21.3,Healthcare
+234,Dover,1439.8,83.8,Industrials
+235,Gould,1437.2,-101.8,Real Estate
+236,Sundstrand,1433.9,45.4,Industrials
+237,MID-AMERICA DAIRYMEN,1420.3,N.A.,Consumer Defensive
+238,Square D,1403.5,98.9,Industrials
+239,Gold Kist Holdings,1394.9,N.A.,Energy
+240,Intl. Multifoods,1355.4,24.9,Consumer Defensive
+241,Witco,1355.0,65.2,Basic Materials
+242,Tektronix,1352.2,39.3,Technology
+243,Hasbro,1329.6,99.2,Consumer Cyclical
+244,Temple-Inland,1328.8,80.8,Basic Materials
+245,Amstar,1321.5,34.7,Consumer Defensive
+246,Molson Coors Brewing,1314.9,59.4,Consumer Defensive
+247,Murphy Oil,1313.3,-194.8,Energy
+248,Becton Dickinson,1311.6,121.9,Healthcare
+249,Cabot,1309.9,71.1,Basic Materials
+250,Thomas J. Lipton,1303.2,91.5,Consumer Defensive
+251,Applera,1290.6,72.6,Healthcare
+252,NL Industries,1283.2,-324.2,Industrials
+253,National Service Industries,1282.9,71.3,Industrials
+254,Dean Foods,1268.6,40.7,Consumer Defensive
+255,Data General,1268.0,-29.0,Technology
+256,Intel,1265.0,-173.2,Technology
+257,Foster Wheeler,1257.9,28.0,Industrials
+258,Union Texas,1255.7,-57.5,Energy
+259,Fruit of the Loom,1246.4,12.1,Consumer Cyclical
+260,Farmers Union Central Exch.,1220.2,N.A.,Consumer Defensive
+261,Fleetwood Enterprises,1218.4,39.3,Consumer Cyclical
+262,Tyco Laboratories,1216.8,36.7,Healthcare
+263,Washington Post,1215.1,100.2,Communication Services
+264,Crane,1204.2,38.4,Industrials
+265,Willamette Industries,1200.2,74.7,Basic Materials
+266,Weirton Steel,1173.8,45.1,Basic Materials
+267,G. Heileman Brewing,1173.8,48.3,Consumer Defensive
+268,Triarc,1162.4,-8.6,Consumer Cyclical
+269,Minstar,1156.4,0.7,Industrials
+270,PerkinElmer,1145.1,44.9,Healthcare
+271,E-SYSTEMS,1135.1,61.6,Industrials
+272,Dow Jones,1134.9,183.4,Communication Services
+273,Avery Dennison,1131.2,48.6,Consumer Cyclical
+274,Harsco,1130.3,46.4,Industrials
+275,Certainteed,1114.2,57.3,Basic Materials
+276,Pennwalt Corp,1107.6,51.9,Basic Materials
+277,Norton,1107.1,-33.1,Basic Materials
+278,Collins & Aikman,1100.7,66.4,Consumer Cyclical
+279,NVF,1099.9,N.A.,Industrials
+280,Inspiration Resources,1098.8,37.8,Energy
+281,Rexnord,1093.5,-103.7,Industrials
+282,Clorox,1089.1,95.6,Consumer Defensive
+283,Dow Corning,1085.4,110.6,Basic Materials
+284,Fieldcrest Cannon,1083.2,17.4,Consumer Cyclical
+285,Ball,1070.3,58.9,Basic Materials
+286,Brockway,1065.6,30.3,Basic Materials
+287,National Starch & Chemical,1063.6,71.8,Basic Materials
+288,Hartmarx,1063.0,24.8,Consumer Cyclical
+289,Mattel,1058.7,-1.0,Consumer Cyclical
+290,Timken,1058.1,2.7,Industrials
+291,Asarco,1056.5,9.1,Consumer Cyclical
+292,Anderson Clayton,1056.5,16.8,Consumer Defensive
+293,Crown Central,1051.6,-20.2,Energy
+294,Smurfit-Stone Container,1044.3,28.0,Basic Materials
+295,Winn Enterprises,1017.3,N.A.,NaN
+296,American Greetings,1012.5,74.4,Consumer Cyclical
+297,General Cinema,1012.2,125.8,Consumer Cyclical
+298,Arvin Industries,995.6,41.2,Consumer Cyclical
+299,Brown-Forman,994.9,86.4,Consumer Defensive
+300,Sequa,984.6,N.A.,Industrials
+301,Lubrizol,976.8,78.2,Basic Materials
+302,Potlatch,976.4,69.9,Real Estate
+303,McCormick,975.7,29.7,Consumer Defensive
+304,Himont,973.9,97.3,Basic Materials
+305,Esselte Business Systems,972.8,45.9,Industrials
+306,Outboard Marine,971.8,14.3,Industrials
+307,Harcourt Brace Jovanovich,968.6,70.5,Communication Services
+308,Gerber Products,967.9,45.5,Consumer Defensive
+309,Fairchild Industries,967.3,-10.0,Basic Materials
+310,AMDAHL,966.3,41.8,Technology
+311,A.O. Smith,964.7,29.0,Industrials
+312,Lafarge,963.8,26.0,Basic Materials
+313,Sonoco Products,963.8,54.7,Consumer Cyclical
+314,Nortek,962.8,29.0,Industrials
+315,Tyler,961.4,11.9,Technology
+316,Illinois Tool Works,961.1,79.6,Industrials
+317,Vulcan Materials,957.8,93.2,Basic Materials
+318,Chicago Pacific,954.9,28.8,NaN
+319,Clark Equipment,954.0,-60.6,Industrials
+320,Federal Paper Board,948.6,18.4,Basic Materials
+321,Federal-Mogul,941.6,3.6,Consumer Cyclical
+322,Sheller-Globe,940.0,N.A.,Consumer Cyclical
+323,Wheeling Pittsburgh,934.5,-250.9,Basic Materials
+324,Figgie International,919.8,42.4,Industrials
+325,Bowater,919.7,49.4,Basic Materials
+326,Varian Associates,912.1,-14.9,Healthcare
+327,Dayco,911.0,3.1,Consumer Cyclical
+328,Household Manufacturing,910.3,-42.8,Consumer Cyclical
+329,Echlin,901.9,48.8,Consumer Cyclical
+330,International Controls,901.7,-6.9,Industrials
+331,Quaker State,899.1,50.3,Consumer Defensive
+332,M/A-Com,886.1,8.8,Technology
+333,Champion Spark Plug,883.8,17.2,Consumer Cyclical
+334,Lone Star Industries,883.4,117.4,Basic Materials
+335,Deluxe,866.8,121.1,Communication Services
+336,Bemis,864.7,25.6,Basic Materials
+337,Smithfield Foods,864.3,4.7,Consumer Defensive
+338,DR Holdings Inc. of Delaware,860.2,46.9,NaN
+339,Bell & Howell,853.4,32.9,Technology
+340,Cincinnati Milacron,850.0,23.3,Industrials
+341,Phelps Dodge,845.9,61.4,Basic Materials
+342,Rhone-Poulenc Rorer,844.6,125.6,Healthcare
+343,Mitchell Energy & Devel.,843.9,48.2,Energy
+344,General Instrument,841.4,-66.5,Technology
+345,Newmont Mining,834.1,74.2,Basic Materials
+346,Metromedia International,830.2,39.6,Communication Services
+347,Joy Global,830.0,1.3,Industrials
+348,Tecumseh Products,821.1,50.7,Industrials
+349,Louisiana Land & Exploration,818.4,-20.6,Financial Services
+350,MacMillan,817.8,59.5,Communication Services
+351,Liz Claiborne,813.5,86.2,Consumer Cyclical
+352,Chromalloy American,813.0,N.A.,Industrials
+353,Ecolab,812.9,43.7,Basic Materials
+354,Pacific Resources,811.3,27.8,Energy
+355,Cyprus Amax Minerals,810.8,21.1,Basic Materials
+356,Hughes Tool,806.1,-475.8,Energy
+357,United Merchants & Mfrs.,802.1,-35.3,Consumer Cyclical
+358,Armtek,800.1,-37.6,Industrials
+359,Raychem,797.6,48.8,Technology
+360,Tyco International,796.4,37.5,Industrials
+361,Rubbermaid,795.2,70.0,Consumer Cyclical
+362,A.H. Robins,789.9,81.8,Healthcare
+363,Tosco,780.3,17.6,Energy
+364,Allis-Chalmers,771.2,-8.6,Industrials
+365,Tandem Computers,767.8,63.8,Consumer Cyclical
+366,CF Industries,766.1,N.A.,Basic Materials
+367,Reichhold Chemicals,765.6,15.9,Basic Materials
+368,Anchor Hocking,757.8,6.6,Consumer Cyclical
+369,Mohasco,757.7,15.8,Consumer Cyclical
+370,Nucor,755.2,46.4,Basic Materials
+371,Worthington Industries,754.3,42.0,Industrials
+372,GAF,753.8,80.7,Basic Materials
+373,Briggs & Stratton,745.8,34.1,Industrials
+374,Insilco,745.1,33.3,Industrials
+375,Nalco Chemical,736.1,63.7,Basic Materials
+376,Interlake,736.0,32.6,Industrials
+377,Ferro,725.2,24.1,Industrials
+378,Natl. Coop. Refinery Assn.,715.9,N.A.,Energy
+379,Metaldyne,712.3,9.4,Industrials
+380,Interstate Bakeries,708.5,15.3,Consumer Defensive
+381,Nashua,704.2,20.6,Basic Materials
+382,Dennison Manufacturing,701.1,30.3,Industrials
+383,Wm. Wrigley Jr.,699.0,53.8,Consumer Defensive
+384,Bausch & Lomb,698.9,74.7,Healthcare
+385,Flowers Industries,698.4,29.5,Consumer Defensive
+386,Storage Technology,696.0,36.2,Technology
+387,Memorex Telex,695.0,67.5,Technology
+388,Joy Technologies,692.8,-83.9,Technology
+389,York International,690.0,8.2,Industrials
+390,AM International,688.9,5.7,Technology
+391,Snap-On,670.1,65.5,Industrials
+392,SPX,665.8,28.5,Industrials
+393,Loral,663.8,53.0,Consumer Defensive
+394,Southwest Forest Industries,660.3,-1.7,Basic Materials
+395,Consolidated Papers,653.0,87.5,Basic Materials
+396,Dexter,650.1,33.6,Industrials
+397,Eagle-Picher Industries,648.3,38.8,Industrials
+398,Texas Industries,648.2,22.1,Technology
+399,Big Three Industries,646.0,-4.5,NaN
+400,Hillenbrand Industries,641.1,50.5,Industrials
+401,First City Industries,637.8,-9.5,NaN
+402,Savannah Foods & Industries,634.7,10.4,Consumer Defensive
+403,Media General,634.6,17.1,Communication Services
+404,Tracor,632.1,18.8,Consumer Cyclical
+405,Warnaco Group,630.0,N.A.,Consumer Cyclical
+406,Freeport-McMoran,629.7,25.7,Basic Materials
+407,Rohr,626.1,47.3,Industrials
+408,AG Processing,625.4,N.A.,Consumer Defensive
+409,Compaq Computer,625.2,42.9,Technology
+410,Ocean Spray,624.3,N.A.,Consumer Defensive
+411,Pentair,623.9,15.2,Industrials
+412,Intl. Flavors & Frag.,620.7,85.7,Basic Materials
+413,Cameron Iron Works,616.2,4.6,Energy
+414,Roper,613.5,14.5,Technology 
+415,Thorn Apple Valley,611.0,-5.5,Consumer Defensive
+416,Calmat,605.9,44.1,basic materials
+417,Intergraph,605.7,70.4,Technology
+418,Universal Foods,602.7,15.4,Consumer Defensive
+419,Chesapeake,599.8,13.7,Energy
+420,Westmoreland Coal,598.6,13.0,Energy
+421,Cray Research,596.7,124.8,Technology
+422,Nerco,594.7,57.5,Industrials
+423,Kaman,587.8,20.3,Industrials
+424,Anchor Glass Container,587.5,22.1,Basic Materials
+425,Robertson-Ceco,586.5,-41.8,Industrials
+426,Pittway,585.7,27.6,Industrials
+427,Leggett & Platt,585.7,34.6,Consumer Cyclical
+428,Bairnco,585.1,22.5,Industrials
+429,Nacco Industries,584.0,33.3,Energy
+430,Georgia Gulf,583.3,39.1,Basic Materials
+431,Jostens,581.9,40.3,Consumer Cyclical
+432,Pullman,580.5,16.2,Industrials
+433,Cooper Tire & Rubber,577.5,23.0,Consumer Cyclical
+434,Butler Manufacturing,576.8,3.6,Industrials
+435,Harte-Hanks Communications,576.4,1.9,Industrials
+436,Advanced Micro Devices,576.1,-36.6,Technology
+437,Leslie Fay,573.4,18.6,Consumer Cyclical
+438,Kellwood,573.0,19.2,Consumer Cyclical
+439,Liquid Air,570.6,34.7,Basic Materials
+440,Ametek,568.5,36.6,Industrials
+441,Cooper Cos.,560.1,9.0,Healthcare
+442,Handy & Harman,558.9,-8.8,Industrials
+443,Hubbell,558.8,54.5,Industrials
+444,Georgia Kraft,557.4,27.6,Basic Materials
+445,Standard Register,557.3,32.7,Industrials
+446,Vista Chemical,550.1,28.9,Basic Materials
+447,Shaw Industries,550.0,24.1,Consumer Cyclical
+448,C.R. Bard,548.0,51.2,Healthcare
+449,Foxboro,544.0,9.3,Industrials
+450,Genesco,538.5,-33.9,Consumer Cyclical
+451,Philips Industries,538.3,29.8,Industrials
+452,Oxford Industries,533.6,10.3,Consumer Cyclical
+453,Meredith,533.4,47.2,Communication Services
+454,Riceland Foods,532.3,23.8,Consumer Defensive
+455,L.B. Foster,531.7,-55.5,Industrials
+456,Herman Miller,531.6,37.8,Consumer Cyclical
+457,H.B. Fuller,528.5,18.9,Basic Materials
+458,Dorsey,526.8,9.4,Industrials
+459,California & Hawaiian Sugar,526.3,N.A.,Consumer Defensive
+460,Danaher,524.0,15.4,Healthcare
+461,Carpenter Technology,517.0,7.7,Industrials
+462,Phillips-Van Heusen,514.4,20.1,Consumer Cyclical
+463,UST,511.6,103.9,Consumer Defensive
+464,American Maize-Products,509.5,9.7,Consumer Defensive
+465,Commerce Clearing House,505.3,47.6,Financial Services
+466,HNI,503.6,29.3,Industrials
+467,Kenner Parker Toys,502.8,24.9,Consumer Cyclical
+468,Coleman,501.6,17.3,Consumer Cyclical
+469,Coleco Industries,500.7,-111.2,Consumer Cyclical
+470,Sun-Diamond Growers,496.4,N.A.,Consumer Defensive
+471,Computervision,494.7,-5.8,Technology
+472,Amalgamated Sugar,492.8,12.3,Consumer Defensive
+473,Stanadyne,492.8,21.1,Industrials
+474,Diamond-Bathurst,491.8,-6.2,Basic Materials
+475,Longview Fibre,487.7,33.5,Basic Materials
+476,Tambrands,486.6,69.1,Consumer Defensive
+477,SCI Systems,470.2,13.8,Consumer Cyclical
+478,Scientific-Atlanta,469.1,-9.2,Technology
+479,Carlisle,466.1,19.7,Industrials
+480,Moore McCormack Resources,462.4,-121.4,Industrials
+481,Seagate Technology,459.8,34.5,Technology
+482,Wisconsin Dairies Cooperative,459.2,N.A.,Consumer Defensive
+483,ATCOR,458.4,-3.7,Healthcare
+484,Clevite Industries,453.8,11.4,Consumer Cyclical
+485,Millipore,443.1,39.1,Healthcare
+486,Barnes Group,439.7,16.6,Industrials
+487,Alberto-Culver,439.0,8.6,Consumer Defensive
+488,Noxell,438.8,37.1,Consumer Defensive
+489,Russell,437.5,43.3,Consumer Cyclical
+490,Robertshaw Controls,436.3,12.8,Industrials
+491,Trinity Industries,434.3,0.9,Industrials
+492,Standard Products,433.2,27.2,Consumer Cyclical
+493,Xidex,432.3,32.2,Technology
+494,Michigan Milk Prod. Assoc.,431.6,N.A.,Consumer Defensive
+495,Lancaster Colony,423.4,2.6,Consumer Defensive
+496,Allen Group,423.2,-8.6,NaN
+497,Bassett Furniture Industries,421.6,19.5,Consumer Cyclical
+498,Allied Products,420.8,16.2,Healthcare
+499,Katy Industries,420.5,-9.8,Industrials
+500,Rochester & Pittsburgh Coal,420.2,18.6,Energy
